@@ -1,0 +1,1 @@
+I am doing the Odin Project. For this repo, I am using what I have learned and building a recipe website with only HTML.
